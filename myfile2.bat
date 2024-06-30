@@ -1,0 +1,1 @@
+START chrome file:///D:/project/fisherman/templates/multi.html

@@ -1,0 +1,12 @@
+1==>
+Edit your file path (Project folder saved location) in Bat File (myfile.bat)-->right click to edit
+
+START chrome file:///F:/project23-24-part4/fisherman/templates/single.html
+
+2==>
+Edit your file path (Project folder saved location) in Bat File (myfile2.bat)-->right click to edit
+
+START chrome file:///F:/project23-24-part4/fisherman/templates/multi.html
+
+3=>
+folder "fisher" copy and save to c:/wamp/www
